@@ -3,8 +3,8 @@ layout: page
 permalink: /
 title: about
 nav: About
-description: <a href="http://www.lti.cs.cmu.edu/" class="page-description" target="_blank">Language Technologies Institute</a> • <a href="http://www.cs.cmu.edu/" class="page-description" target="_blank">School of Computer Science</a> • <a href="http://www.cmu.edu/" class="page-description" target="_blank">Carnegie Mellon University</a>
-address: <a href="https://www.google.com/maps/place/Gates+Center+for+Computer+Science/@40.4432641,-79.9449469,19.18z/data=!4m5!3m4!1s0x8834f22175d2f3cf:0x963e80aba7fde2d0!8m2!3d40.4435476!4d-79.9446184" class="page-description" target="_blank">Gates Hillman Center, 5000 Forbes Ave, Pittsburgh, PA 15213</a>
+description: <a href="https://www.deepmind.com/" class="page-description" target="_blank">Google DeepMind</a> • <a href="https://research.google/teams/brain/" class="page-description" target="_blank">Google Research - Brain Team</a>
+address: <a href="https://www.google.com/maps/place/Googleplex/@37.4220656,-122.0840897,15z/data=!4m2!3m1!1s0x0:0x6c296c66619367e0?sa=X&ved=2ahUKEwjX-_PLwpv_AhXFlWoFHdJPChsQ_BJ6BAhUEAg" class="page-description" target="_blank">Google DeepMind, Mountain View, CA</a>
 ---
 
 <div class="col p-0 pt-4 pb-4">
@@ -24,16 +24,11 @@ address: <a href="https://www.google.com/maps/place/Gates+Center+for+Computer+Sc
         </div>
 
         <p>
-	I am a second year MLT (Master's in Language Technologies) student in the <a href="http://www.lti.cs.cmu.edu/" target="_blank">Language Technologies Institute</a>, <a href="http://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, co-advised by <a href="http://www.cs.cmu.edu/~awb/" target="_blank">Alan W Black</a>, <a href="http://www.cs.cmu.edu/~ytsvetko/" target="_blank">Yulia Tsvetkov</a> and <a href="http://www.cs.cmu.edu/~air/" target="_blank">Alex Rudnicky</a>. I'm also a member of <a href="https://tsvetshop.github.io/" target="_blank">Tsvetshop</a>.
-        </p>
-        
-        <p>
-	My research focuses on developing algorithms for machine learning and applying my methods in order to study how machines can mimic humans in congitive tasks, especially those related to Language. My research with Alan and Yulia focused on negotiation and persuasion in dialogue systems where we are trying to understand the qualities of good/bad sellers/persuaders and including explicit strategy sequence information to build a system that can negotiate better. 
-	With Alex, I worked with CMU's team, Tartan, on the Amazon Alexa Challenge, 2020 and we managed to reach the semi-finals. I also studyed coherence in dialogue and the right questions to ask for better engagement, by using external knowledge to augment the models.
+  I am a software engineer working on language research at Google Deepmind (formerly Google Research - Brain Team). My current research focus is on improving the generation and alignment capabilities of large language models. Before joining Google, I did my research masters in Language Technologies (MLT) from <a href="http://www.lti.cs.cmu.edu/" target="_blank">Language Technologies Institute</a>, <a href="http://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, co-advised by <a href="http://www.cs.cmu.edu/~awb/" target="_blank">Alan W Black</a>, <a href="http://www.cs.cmu.edu/~ytsvetko/" target="_blank">Yulia Tsvetkov</a> and <a href="http://www.cs.cmu.edu/~air/" target="_blank">Alex Rudnicky</a>. I'm also a member of <a href="https://tsvetshop.github.io/" target="_blank">Tsvetshop</a>.
         </p>
 
         <p>
-        Right now, my focus is on low resource NLP and exploring knowledge proliferation. We are exploring adapter based approaches for multilingual summarization. I'm also working on understanding and profiling important concepts in academic publications, which can later be used to study evolution of science.
+  My current research focus is on post-training and alignment, including RLHF and preference optimization of Large Language Models as part of the Gemini Team at Google DeepMind. I'm responsible for publishing papers and landing research ideas to improve Google's Gemini model. I'm also interested in self-improving language models. My research in CMU focused dialogue systems, interpretability and text summarization.
         </p>
 
 	<p>

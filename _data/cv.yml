@@ -12,9 +12,8 @@
   type: list
   contents:
   - My research focuses on developing algorithms for machine learning and applying my methods in order to study how machines can mimic humans in congitive tasks, especially those related to Language.
-  - I am also interested in creating AI agents that can understand language and reason, therefore I have also worked on natural language processing with a focus on negotiation, persuasion, dialogue and question answering.
-  - I am passionate about focusing my efforts in advancing low resource NLP and I am specifically working on multilingual summarization. 
-  - I also like to think about knowledge and knowledge proliferation in our society.
+  - I am also interested in creating AI agents that can understand language and reason, therefore I have also worked on natural language processing with a focus on language generation.
+  - Currently I'm focusing my efforts at Google Deepmind in improving the generation capabilities and studying alignment of large language models, including RLHF and preference optimization during post-training.
 
 - title: Education
   type: table
@@ -23,7 +22,7 @@
     year: Aug 2021
     location: USA
     description:
-            - 'Co-advised by <a href="http://www.cs.cmu.edu/~awb/" target="_blank"><b>Prof. Alan W. Black</b></a>, <a href="http://www.cs.cmu.edu/~ytsvetko/" target="_blank"><b>Prof. Yulia Tsvetkov</b></a> and <a href="http://www.cs.cmu.edu/~air/" target="_blank"><b>Prof. Alexander Rudnicky</b></a>'
+            - 'Co-advised by <a href="http://www.cs.cmu.edu/~awb/" target="_blank"><b>Prof. Alan W. Black</b></a>, <a href="http://www.cs.cmu.edu/~ytsvetko/" target="_blank"><b>Prof. Yulia Tsvetkov</b></a> and <a href="http://www.cs.cmu.edu/~air/" target="_blank"><b>Prof. Alexander Rudnicky</b></a>. MLT is a research program equivalent to the first two years of a PhD in LTI, CMU.'
             - 'GPA: 3.94 / 4.33'
             - 'PhD level Courses: Intro to ML, Algos for NLP, NN for NLP, Ethics and Propaganda in NLP, Deep RL, Multilingula NLP, Dialogue Seminar, Probabilisic Graphical Models, Question Answering'
   - title: Birla Institute of Technology and Science, Pilani – Bachelor of Engg. (Hons.) in Computer Science
@@ -37,8 +36,14 @@
 - title: Work Experience
   type: table
   contents:
-  - title: 'Graduate Research Assistant at CMU'
-    year: 'Sep 19 - now'
+  - title: 'Research Engineer'
+    year: 'Oct 21 - now'
+    location: Mountain View, CA
+    description:
+            - 'Research Engineer at Google Deepmind (formerly Google Research - Brain Team) working on language generation.'
+            - 'Research on text summarization, NLP model alignment and self improving language models.'
+            - 'Working on Gemini post-training.'
+    year: 'Sep 19 - Aug 21'
     location: Pittsburgh, PA
     description:
             - 'Advised by Profs. Yulia Tsvetkov, Alan W Black and Alexander Rudnicky'
@@ -46,6 +51,7 @@
             - 'Performed a linguistic driven analysis on the characteristics of good negotiators and incorporated explicit strategy-sequence structure using Graph Neural Networks to improve non-collaborative dialogue systems.'
             - 'Collaborated with team Tartan to develop a conversational system in Amazon Alexa Challenge 2019; developed mini-bots and analyzed conversational story structure, reached semi-finals.'
             - 'Modeled the structure of dialogue by analyzing the flow of conversational topics and detecting non-coherence. Submitted proposal for Alexa Challenge 2020.'
+            - 'Studied knowledge proliferation and keyphrase extraction using interpretable neural models.'
   - title: 'Research Software Engineer at Samsung Research India'
     year: 'Jul 18 - Aug 19'
     location: Bangalore, India
@@ -165,7 +171,7 @@
   contents:
   - '○ Programming languages: C, C++, Python.'
   - '○ Data Structures and Algorithms: Familiarity with concepts used in algorithmic competitions and machine learning research.'
-  - '○ Frameworks: Pytorch, Tensorflow, NumPy, SciPy, Pandas.'
+  - '○ Frameworks: Pytorch, Tensorflow, NumPy, SciPy, Pandas, JAX.'
   - '○ Database Systems: MySQL, MongoDB.'
 
 # - title: Technical Projects
@@ -214,5 +220,5 @@
 - title: Other Interests
   type: list
   contents:
-  - 'Sports: Squash, Volleyball, Tennis, Hiking'
+  - 'Sports: Badminton, Squash, Volleyball, Tennis, Hiking'
   - 'Hobbies: Traveling, Music, Movies'
